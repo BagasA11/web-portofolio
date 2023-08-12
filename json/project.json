@@ -1,0 +1,41 @@
+{
+    "project":
+    [
+        {
+            "id":"p001",
+            "title":"POS Capstone",
+            "lgn":"Laravel",
+            "img":"pos-project.jpg",
+            "desc":"POS Capstone adalah web aplikasi manajemen kasir yang dibuat dalam rangka mengikuti event kometisi Capstone",
+            "file":"pos-project.zip",
+            "date":"22-07-2023"
+        },
+        {
+            "id":"p002",
+            "title":"Parabola",
+            "lgn":"Javascript",
+            "img":"parabola.jpg",
+            "desc":"Parabola adalah web aplikasi komputasi gerak parabola untuk tugas akhir mata kuliah Fisika I",
+            "file":"kelompok6.zip",
+            "date":"17-07-2023"
+        },
+        {
+            "id":"p003",
+            "title":"Sistem Parkir",
+            "lgn":"C++",
+            "img":"parkir.jpg",
+            "desc":"Sistem Parkir adalah aplikasi konsol sistem parkir untuk tugas akhir mata kuliah Algoritma dan Pemograman.",
+            "file":"parkir-lot.zip",
+            "date":"12-07-2023"
+        },
+        {
+            "id":"p004",
+            "title":"E-Perpus",
+            "lgn":"Code Igniter 3",
+            "img":"perpus.jpg",
+            "desc":"E-Perpus adalah web aplikasi perpustakaan untuk tugas akhir mata kuliah RPL.",
+            "file":"perpus-ci3-master-main.zip",
+            "date":"20-07-2023"
+        }
+    ]
+}

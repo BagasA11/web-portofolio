@@ -1,0 +1,12 @@
+{
+    "certificate" :
+    [
+     {
+        "id": "c001",
+        "title" : "Release Party Tealinux OS",
+        "img" : "tealinux.jpg",
+        "file": "tealinux.pdf",
+        "date":""
+     }   
+    ]
+}

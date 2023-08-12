@@ -1,0 +1,45 @@
+{
+    "skill" :
+    [
+        {
+            "img" : "php.png",
+            "title" : "PHP",
+            "desc" : "PHP (Hypertext Preprocessor) adalah bahasa pemrograman skrip yang umumnya digunakan untuk pengembangan aplikasi web. PHP dirancang khusus untuk memproses konten web, dan integrasinya dengan HTML sangatlah mudah. Dengan menggunakan sintaksis PHP yang sederhana dan tag khusus, pengembang dapat menyisipkan kode PHP langsung di dalam kode HTML. "
+        },
+        {
+            "img" : "cpp.png",
+            "title" : "C++",
+            "desc" : "C++ adalah bahasa pemrograman tingkat tinggi yang bersifat umum, didasarkan pada bahasa C, dan sering digunakan dalam pengembangan perangkat lunak." 
+        },
+        {
+            "img" : "mysql.png",
+            "title" : "SQL",
+            "desc" : "SQL (Structured Query Language) adalah bahasa pemrograman khusus yang digunakan untuk berinteraksi dengan database. Dengan SQL, pengguna dapat membuat, mengelola, dan mengakses data dalam database. SQL memiliki sintaksis yang khas dan berfokus pada pengambilan dan manipulasi data." 
+        },
+        {
+            "img" : "css.png",
+            "title" : "CSS",
+            "desc" : "CSS (Cascading Style Sheets) adalah bahasa pemrograman yang digunakan untuk mengatur tampilan dan gaya pada halaman web yang ditulis dengan HTML atau XHTML. Fungsi utama dari CSS adalah mengontrol presentasi elemen HTML, seperti warna, font, ukuran teks, tata letak, jarak antar elemen, gambar latar belakang, dan efek transisi." 
+        },
+        {
+            "img" : "html.png",
+            "title" : "HTML",
+            "desc" : "HTML (HyperText Markup Language) adalah bahasa markup yang digunakan untuk membuat dan mengatur struktur konten pada halaman web. HTML digunakan untuk menentukan elemen-elemen dan bagaimana mereka akan ditampilkan di browser web. Dengan HTML, pengembang web dapat menentukan teks, gambar, tautan, tabel, formulir, video, dan elemen-elemen lainnya yang membentuk halaman web." 
+        },
+        {
+            "img" : "java.png",
+            "title" : "JAVA",
+            "desc" : "Java adalah bahasa pemrograman tingkat tinggi yang umum digunakan dalam pengembangan perangkat lunak. Java didesain untuk menjadi bahasa yang mudah dipelajari, portable (dapat dijalankan di berbagai platform), dan aman." 
+        },
+        {
+            "img" : "Laravellogo.jpg",
+            "title" : "LARAVEL",
+            "desc" : "Laravel adalah kerangka kerja (framework) aplikasi web berbasis PHP yang open-source dan sangat populer. Laravel menyediakan cara yang mudah dan elegan untuk membangun aplikasi web dengan cepat dan efisien." 
+        },
+        {
+            "img" : "bootstrap.png",
+            "title" : "BOOTSTRAP",
+            "desc" : "Bootstrap adalah kerangka kerja (framework) front-end open-source yang digunakan untuk mengembangkan desain dan tampilan situs web dan aplikasi web. Bootstrap menyediakan beragam komponen dan gaya CSS yang siap digunakan untuk membangun tampilan responsif dan menarik." 
+        }
+    ]
+}
