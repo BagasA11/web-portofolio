@@ -129,7 +129,7 @@ require 'retrieving\certificate.php';
     <?php $i = 0; ?>
     <?php foreach($project as $item): ?>
       <div class="card-project me-3 border-danger bg-light">
-        <a class="gambar" href="asset\img\mockup\<?= $item['img']?>" target="_blank">
+        <a class="gambar" href="asset\img\mockup\<?= $item['img']?>" target="_blank" title="click here to zoom">
           <img src="asset\img\mockup\<?= $item['img']?>">
         </a>
         <div class="deskripsi">
@@ -169,7 +169,7 @@ require 'retrieving\certificate.php';
       <?php foreach ($certificate as $item): ?>
         <div class="ms-2 me-2" style="height: 150px; width:100px;">
           <div class="skil-logo" style="object-fit: fill ;height: 100px; width:100%;">
-          <a href="asset\img\certificate\<?= $item['img']?>" target="_blank">
+          <a href="asset\img\certificate\<?= $item['img']?>" target="_blank" title="click here to zoom">
             <img src="asset\img\certificate\<?= $item['img']?>" style="width: 100%; height:100%">
           </a>  
           </div>
