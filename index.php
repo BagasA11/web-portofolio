@@ -2,6 +2,7 @@
 require 'retrieving\skill.php';
 require 'retrieving\project.php';
 require 'retrieving\certificate.php';
+require 'retrieving\topic.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -122,7 +123,7 @@ require 'retrieving\certificate.php';
       </div>
     </div>
   </div>
-
+  
   <!-- project slider -->
   <h3 style="text-align: center;">Latest Project</h3>
   <div id="project" class="d-flex mb-5">
