@@ -12,6 +12,10 @@
         {
             "title":"Cloud Computing",
             "img":"cloud-computing.png"
+        },
+        {
+            "title":"Android",
+            "img":"android.png"
         }
     ]
 }
