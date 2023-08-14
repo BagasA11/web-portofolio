@@ -36,7 +36,7 @@ require 'retrieving\certificate.php';
             <li>
               <div class="d-flex">
                 <p class="ms-1 me-2">Email</p>
-                <a href="mailto:111202214715@mhs.dinus.ac.id" title="Email">
+                <a href="mailto:111202214715@mhs.dinus.ac.id" title="111202214715@mhs.dinus.ac.id">
                   <i class="fa-regular fa-envelope" style="color: #d91212;"></i>
                 </a> 
               </div>
@@ -44,7 +44,7 @@ require 'retrieving\certificate.php';
             <li>
               <div class="d-flex">
                 <p class="ms-1 me-2">Github </p>
-                <a href="https://github.com/BagasA11" class="me-1" target="_blank" title="github">
+                <a href="https://github.com/BagasA11" class="me-1" target="_blank" title="BagasA11">
                   <i class="fa-brands fa-github" style="color: #181d26;"></i>
                 </a>
               </div>
@@ -52,7 +52,7 @@ require 'retrieving\certificate.php';
             <li>
               <div class="d-flex">
                 <p class="ms-1 me-2">WhatsApp </p>
-                <a href="https://wa.me/6282112897283" title="WhatsApp">
+                <a href="https://wa.me/6282112897283" title="+62 821-1289-7283">
                   <i class="fa-brands fa-whatsapp" style="color: #08a63f;"></i>
                 </a>
               </div>      
